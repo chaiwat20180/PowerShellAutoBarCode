@@ -1,5 +1,5 @@
 # PowerShellAutoBarCode
-PowerShellAutoBarCode is auto generate and saves images from barcode.tec-it.com to get value from txt files
+PowerShellAutoBarCode is auto generate and saves images from barcode.tec-it.com [ get value from txt files ] 
 
 How to use? 
 
