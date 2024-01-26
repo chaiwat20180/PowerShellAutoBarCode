@@ -12,7 +12,8 @@ Step 2
 Step 3 
 - Done
 
-========================================================================================
+========================================
+
 FAQ
 1.I can't run ? 
 - First run powershell with run admin and enter this "Set-ExecutionPolicy RemoteSigned -Scope CurrentUser" and try again 
